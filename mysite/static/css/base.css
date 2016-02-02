@@ -1,3 +1,33 @@
 a {
-    color: rgb(255, 0, 0);
+    color: yellow;
 }
+
+/*
+html {
+    background-color: black;
+    color:pink
+}
+.navtext{
+    color:grey;
+}
+
+h2 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position:relative;
+    -webkit-animation: mymove 5s infinite; 
+    animation: mymove 5s infinite;
+}
+
+#logo{
+    background-image:url{"/static/img/gross.gif"};
+}
+
+@-webkit-keyframes mymove {
+    0%   {background-color: red;}
+    25%  {background-color: yellow;}
+    50%  {background-color: blue;}
+    100% {background-color: green;}
+}
+*/
